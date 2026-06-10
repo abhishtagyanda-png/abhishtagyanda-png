@@ -19,4 +19,5 @@ C++ • Python • JavaScript • React • Git • GitHub • AI/ML • UI/UX
 
 ---
 > The universe is big. Might as well write good code while exploring it.
+> 
 > *"The cosmos is within us. We are made of star-stuff."* — Carl Sagan
