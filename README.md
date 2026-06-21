@@ -15,7 +15,7 @@ CSE student at DTU (2025–2029), figuring out how to sit at the intersection of
 
 ### 🛠 Tech Stack
 
-C++ • Python • JavaScript • React • Git • GitHub • AI/ML • UI/UX
+C++ • C • Python • JavaScript • React • Git • GitHub • AI/ML • UI/UX
 
 ---
 > The universe is big. Might as well write good code while exploring it.
