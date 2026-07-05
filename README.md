@@ -51,7 +51,7 @@ I enjoy building full-stack applications, obsessing over clean UI/UX, and occasi
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=3B82F6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=abhishtagyanda-png&label=Profile%20Views&color=1E90FF&style=for-the-badge" />
 </p>
 ---
 
