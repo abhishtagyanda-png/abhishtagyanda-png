@@ -50,13 +50,14 @@ I enjoy building full-stack applications, obsessing over clean UI/UX, and occasi
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=3B82F6&style=for-the-badge" />
+</p>
 ---
 
 <p align="center">
 
 <i>"The universe is big. Might as well write good code while exploring it."</i>
-
 <br><br>
 
 <i>"We are made of star-stuff."</i>
